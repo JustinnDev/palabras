@@ -11,7 +11,7 @@ let texto = '     Hola mi nombre es justin hola justin soy mondongo mondongo el 
 console.log(texto);
 console.log(texto.length);
 
-console.log()
+console.log();
 
 let resultado = contarPalabrasFrase(texto);
 console.log(resultado);
